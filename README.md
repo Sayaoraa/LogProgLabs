@@ -1,1 +1,1 @@
-# LogProgLabs
+# logic_programming_prolog
